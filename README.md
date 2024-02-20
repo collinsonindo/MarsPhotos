@@ -13,4 +13,6 @@ This app is part of the [Android Basics with Compose course](https://developer.a
 Screenshots
 --------------
 
-![Screenshot](https://github.com/collinsonindo/MarsPhotos/blob/master/screenshot.jpeg)
+<p align="center">
+  <img src="https://github.com/collinsonindo/MarsPhotos/blob/master/screenshot.jpeg" width="300" alt="Screenshot">
+</p>
